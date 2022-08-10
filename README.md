@@ -1,6 +1,6 @@
 - ### 👋 Hi, I’m Abhilash Dubey! (short name: Abhi)
-- 👀 I find programming as highly creative profession. 
-- 🌱 I like to create something new and experimenting with the new technologies. It’s fun to build things!
+- 👀 I find programming as highly creative profession. It’s fun to build things!
+- 🌱 I like to create something new and experimenting with the new technologies.
 - 💞️ I’m looking to collaborate on Software Development, Data Structures and Problem Solving
 - 📫 Also, I love meeting new people and learning new things. Feel free to say hello and share a story with me.
 
