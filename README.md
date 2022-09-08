@@ -1,7 +1,7 @@
  ### 👋 Hi, I’m Abhilash! (short name: Abhi).
 - 💼 I'm a Software Engineer at Nuance Communication, living in Pune, MH, India.
 - 👨‍🎓  I am also currently a MS-CS student at Woolf University. This is an online Scaler Neovarsity program, which is a full member college of Woolf.
-- 👀 I find programming a highly creative profession. It’s fun to build things!
+- 💻 I find programming a highly creative profession. It’s fun to build things!
 - ⛳ Outside of tech, I enjoy running, playing table tennis, listening to podcasts and explore nature outdoors.
 - 💞️ I’m looking to collaborate on Software Development, Data Structures and Problem Solving.
 - 📫 Also, I love meeting new people and learning new things. Feel free to say hello and share a story with me.
