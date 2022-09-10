@@ -4,7 +4,7 @@
 - 💻 I find programming a highly creative profession. It’s fun to build things!
 - ⛳ Outside of technology, I like jogging, table tennis, podcasts, and exploring nature outside.
 - 💞️ I’m looking to collaborate on Software Development, Data Structures and Problem Solving.
-- 📫 Also, I love meeting new people and learning new things. Feel free to say hello and share a story with me.
+- 📫 I also enjoy learning new things and meeting new individuals. Feel free to say hello and share a story with me.
 - ☕ If you are around Pune, drop an email and let's catch up over Coffee!
 
 ## 👀 Stats:
