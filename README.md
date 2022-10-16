@@ -1,5 +1,5 @@
  ## Hey there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I’m Abhilash! (short name: Abhi).
-- 💼 I work for Nuance Communication as a software engineer, and I'm based in Pune, Maharashtra.
+- 💼 I work for [Nuance, A Microsoft Company](https://www.nuance.com/index.html) as a QA engineer, and I'm based in Pune, Maharashtra. I have previously worked for [Amdocs](https://www.amdocs.com/).
 - 👨‍🎓 In addition, I am an MS-CS student at Woolf University. Woolf is a full member college of Scaler Neovarsity.
 - 👩🏻‍💻 I find programming a highly creative profession. It’s fun to build things!
 - ⛳ Outside of technology, I like jogging, table tennis, podcasts, and exploring nature outside.
