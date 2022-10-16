@@ -1,4 +1,4 @@
- ### 👋 Hi, I’m Abhilash! (short name: Abhi).
+ ## Hey there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I’m Abhilash! (short name: Abhi).
 - 💼 I work for Nuance Communication as a software engineer, and I'm based in Pune, Maharashtra.
 - 👨‍🎓 In addition, I am an MS-CS student at Woolf University. Woolf is a full member college of Scaler Neovarsity.
 - 👩🏻‍💻 I find programming a highly creative profession. It’s fun to build things!
