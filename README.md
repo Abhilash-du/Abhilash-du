@@ -1,5 +1,5 @@
  ## Hey there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I’m Abhilash! (short name: Abhi).
-- 💼 I work for [Microsoft](https://www.nuance.com/index.html](https://www.microsoft.com/en-in)) as a Software engineer, and I'm based in Pune, Maharashtra. I have previously worked for [Amdocs](https://www.amdocs.com/).
+- 💼 I work for [Microsoft](https://www.nuance.com/index.html](https://www.microsoft.com/en-in)) as a Software engineer, and I'm based in Pune, Maharashtra. I have previously worked for [Nuance](https://www.nuance.com/company-overview.html) and [Amdocs](https://www.amdocs.com/).
 - 🎓 In addition, I am currently a Masters student studying Computer Science at [Woolf University](https://woolf.university/). Woolf is a full member college of [Scaler Neovarsity](https://scaler.woolf.university/).
 - 👩🏻‍💻 I find programming a highly creative profession. It’s fun to build things!
 - ⛳ Outside of technology, I like jogging, table tennis, podcasts, and exploring nature outside.
