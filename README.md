@@ -21,7 +21,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhilash-du&
 
 📧 [abhilash.du7@gmail.com](mailto:abhilash.du7@gmail.com)
 
-🔗 [LinkedIn](https://www.linkedin.com/in/abhilash-dubey/) | Connect with me professionally
+🔗 [LinkedIn](https://www.linkedin.com/in/abhilash-dubey/)
  
  
 <!---
