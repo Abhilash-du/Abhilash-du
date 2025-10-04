@@ -1,5 +1,5 @@
  ## Hey there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I’m Abhilash! (short name: Abhi).
-- 💼 I work as a Senior Software Development Engineer at [BMW Techworks](https://bmwtechworks.in/), and I'm based in Pune, Maharashtra. I have previously worked for [Microsoft](https://www.microsoft.com/en-in) and [Amdocs](https://www.amdocs.com/).
+- 💼 I work as a Senior Software Development Engineer at [BMW Techworks](https://bmwtechworks.in/), India. I have previously worked for [Microsoft](https://www.microsoft.com/en-in) and [Amdocs](https://www.amdocs.com/).
 - 👩🏻‍💻 I find programming a highly creative profession. It’s fun to build things!
 - ⛳ Outside of technology, I like jogging, table tennis, podcasts, and exploring nature outside.
 - 🤝🏻 I’m looking to collaborate on Software Development, Data Structures and Problem Solving.
