@@ -12,11 +12,6 @@
 ![BE in IT](https://img.shields.io/badge/BE-Information%20Technology-green)
 
 
-## 👀 Stats:
-&emsp;&emsp;
-<img align="center"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhilash-du&layout=compact&theme=dark&show_icons=true" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhilash-du&layout=compact&theme=dark&show_icons=true;hide_border=true" style="max-width: 100%;">
-
 ## Find me Around the Web 🌍:
 
 📧 [abhilash.du7@gmail.com](mailto:abhilash.du7@gmail.com)
